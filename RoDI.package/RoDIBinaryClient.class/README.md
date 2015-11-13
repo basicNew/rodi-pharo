@@ -1,0 +1,1 @@
+RoDIBinaryClient is a remote client for the RoDI binary protocol 

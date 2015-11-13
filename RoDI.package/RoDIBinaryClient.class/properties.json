@@ -1,0 +1,14 @@
+{
+	"category" : "RoDI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AF 11/12/2015 21:35",
+	"instvars" : [
+		"socket" ],
+	"name" : "RoDIBinaryClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
